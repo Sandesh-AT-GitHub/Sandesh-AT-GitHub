@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![instagram logo](https://img.icons8.com/cute-clipart/2x/instagram-new.png)](https://www.instagram.com/sandesh.sanju/)
+
 
 <!--
 **Sandesh-AT-GitHub/Sandesh-AT-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
