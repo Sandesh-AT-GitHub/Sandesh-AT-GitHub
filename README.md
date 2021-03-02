@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Myself is SANDESH K S
+
+**My objective is to get a job, learn new things, do some projects in different domains, apply skills to accomplish the goals of the corporation.**
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on project based on cnn
