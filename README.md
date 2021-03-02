@@ -2,7 +2,7 @@
 
 `INTRO`
 
-**I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developing web and android based application.**
+**I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developimg web and android based application.**
 
 `SKILLS`
 
@@ -13,6 +13,10 @@
 * *css*
 * *javascript*
 * *php*
+
+`REPOS ON GITHUB`
+
+
 
 Here are some ideas to get you started:
 
