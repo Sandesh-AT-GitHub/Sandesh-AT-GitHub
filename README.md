@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 `INTRO`
+
 **I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developing web and android based application.**
 
 `SKILLS`
+
 * *java*
 * *python*
 * *c++*
