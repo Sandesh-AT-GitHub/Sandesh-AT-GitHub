@@ -4,6 +4,10 @@
 
 **I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developimg web and android based application.**
 
+- 🔭 I’m currently working on project based on *Machine Learning*
+- 🌱 I’m currently learning *Data Structure and Algorithms*
+- ⚡ Fun fact: Don't ask me, ask a comedian:[smile]
+
 `SKILLS`
 
 * *java*
@@ -14,20 +18,10 @@
 * *javascript*
 * *php*
 
-`REPOS ON GITHUB`
+`MY REPOS ON GITHUB`
+* [Patient-Disease-Prediction-and-Consultation-System](https://github.com/Sandesh-AT-GitHub/Patient-Disease-Prediction-and-Consultation-System)
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on project based on cnn
-- 🌱 I’m currently learning data structure and algorithms
-- 👯 I’m looking to collaborate on linkedin
-- 🤔 I’m looking for help with deep learning
-- 💬 Ask me about web technology
-- 📫 How to reach me: linkedin:https://www.linkedin.com/in/sandesh-k-s-9167661a0
-- 😄 Pronouns: 
-- ⚡ Fun fact: dont learn too much it will explode your head
 
 
 
