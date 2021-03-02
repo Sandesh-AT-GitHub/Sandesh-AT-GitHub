@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning *Data Structure and Algorithms*
 - ⚡ Fun fact: Don't ask me, ask a comedian.
 
-[<img src="https://cdn3.vectorstock.com/i/thumb-large/73/07/programming-isometric-man-vector-28837307.jpg" align="right">]
+<img src="https://cdn3.vectorstock.com/i/thumb-large/73/07/programming-isometric-man-vector-28837307.jpg" align="right">
 
 `SKILLS`
 
