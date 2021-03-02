@@ -2,12 +2,14 @@
 
 **I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developing web and android based application.**
 
-[no of repo](/github/directory-file-count/:Sandesh-AT-Github/:repo)
-
-**Skills**
+**1. Skills**
 * *java*
 * *python*
 * *c++*
+* *html*
+* *css*
+* *javascript*
+* *php*
 
 Here are some ideas to get you started:
 
