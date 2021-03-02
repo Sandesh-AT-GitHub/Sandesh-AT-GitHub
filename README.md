@@ -3,7 +3,7 @@
 **I am a student who is pursing his final year in Vivekananda College of Engineering and Technology,Puttur. Intrested in developing web and android based application.**
 
 **Skills**
-* ![java logo](https://www.flaticon.com/svg/vstatic/svg/919/919854.svg?token=exp=1614684506~hmac=519c4ce8604ceab9f50f58f1738c7cc5=100x100)
+* ![java logo](https://www.flaticon.com/svg/vstatic/svg/919/919854.svg?token=exp=1614684506~hmac=519c4ce8604ceab9f50f58f1738c7cc5|width=100)
 
 Here are some ideas to get you started:
 
