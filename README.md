@@ -23,9 +23,6 @@
 `MY REPOS ON GITHUB`
 * [Patient-Disease-Prediction-and-Consultation-System](https://github.com/Sandesh-AT-GitHub/Patient-Disease-Prediction-and-Consultation-System)
 
-`Contact me`
 
- [<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614693211~hmac=a37c4ac388f0ce43c828f27484835ad7" width="50" height="50">](https://www.linkedin.com/in/sandesh-k-s-9167661a0/)
- [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614693538~hmac=6fdf5bededb9d60e1e893d6a64a6bc36" width="50" height="50">](https://www.instagram.com/sandesh.sanju/)
 
 
